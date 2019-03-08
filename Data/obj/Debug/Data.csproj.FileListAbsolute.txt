@@ -1,0 +1,11 @@
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\Data.dll.config
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\Data.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\Data.pdb
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\EntityFramework.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\EntityFramework.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\obj\Debug\Data.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Data\obj\Debug\Data.pdb

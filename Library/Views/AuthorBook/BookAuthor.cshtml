@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Model.Models.BookAuthorViewModel>
+
+@{
+    ViewBag.Title = "Select Books";
+}
+<h2>Select Books</h2>
+
+<div style="display: flex">
+    <div style="margin-right:10px">
+        @Html.ActionLink("Books Section", "Books", "Book")
+    </div>
+
+    <div>
+        @Html.ActionLink("Authors Section", "Authors", "Author")
+    </div>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Publisher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PublicationDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+        </tr>
+    }
+
+    @Html.ActionLink("Connect Books and Authors", "BookAuthorConnect", "AuthorBook")
+</table>

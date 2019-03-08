@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Model.Models.Books>
+
+@{
+    ViewBag.Title = "BooksView";
+}
+
+<h2>Book View</h2>
+<p>
+    @Html.ActionLink("Add Books", "AddBooks")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Publisher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PublicationDate)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher)
+            </td>
+            <td>
+                @item.PublicationDate.ToShortDateString()
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditBook", new { id = item.Id }, null) |
+                <button class='btn-link js-delete' data-book-id="@item.Id">Delete</button>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    @Html.ActionLink("Go Back", "BookAuthor", "AuthorBook")
+</p>
+
+@section Scripts{
+        <script>
+            $(document).ready(function () {
+                $(".js-delete").on("click",
+                    function () {
+                        var button = $(this);
+
+                        if (confirm("Are you sure?")) {
+                            $.ajax({
+                                url: "/api/books/" + button.attr("data-book-id"),
+                                method: "Delete",
+                                success: function () {
+                                    (button.parent().parent()).remove().draw();
+
+                                }
+                            });
+                        }
+                    });
+            });
+        </script>
+}

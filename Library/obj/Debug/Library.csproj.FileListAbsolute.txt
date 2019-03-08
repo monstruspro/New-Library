@@ -1,0 +1,124 @@
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\ApplicationInsights.config
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Library.dll.config
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Library.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Library.pdb
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Antlr3.Runtime.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\AutoMapper.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Data.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\EntityFramework.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\EntityFramework.SqlServer.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.Web.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Model.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Newtonsoft.Json.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Net.Http.Formatting.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.ValueTuple.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Helpers.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Http.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Http.WebHost.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Mvc.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Optimization.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Razor.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.WebPages.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.WebPages.Razor.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\WebGrease.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Data.pdb
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Data.dll.config
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Model.pdb
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\AutoMapper.pdb
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\AutoMapper.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\EntityFramework.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\EntityFramework.SqlServer.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Net.Http.Formatting.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.ValueTuple.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Http.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Http.WebHost.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Helpers.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Mvc.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Optimization.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.Razor.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.WebPages.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\System.Web.WebPages.Razor.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Antlr3.Runtime.pdb
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Newtonsoft.Json.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\bin\Microsoft.AI.Web.xml
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\obj\Debug\Library.dll
+C:\Users\Top_Pechka\source\repos\Чебуречная\Library\Library\Library\obj\Debug\Library.pdb
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\ApplicationInsights.config
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Library.dll.config
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Library.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Library.pdb
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Antlr3.Runtime.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\AutoMapper.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Data.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\EntityFramework.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\EntityFramework.SqlServer.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.Web.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Model.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Newtonsoft.Json.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Net.Http.Formatting.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.ValueTuple.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Helpers.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Http.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Http.WebHost.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Mvc.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Optimization.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Razor.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.WebPages.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.WebPages.Razor.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\WebGrease.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Data.pdb
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Data.dll.config
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Model.pdb
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\AutoMapper.pdb
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\AutoMapper.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\EntityFramework.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\EntityFramework.SqlServer.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Net.Http.Formatting.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.ValueTuple.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Http.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Http.WebHost.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Helpers.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Mvc.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Optimization.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.Razor.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.WebPages.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\System.Web.WebPages.Razor.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Antlr3.Runtime.pdb
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Newtonsoft.Json.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\bin\Microsoft.AI.Web.xml
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\obj\Debug\Library.dll
+C:\Users\Top_Pechka\Source\repos\Чебуречная\New folder\Library\Library\obj\Debug\Library.pdb

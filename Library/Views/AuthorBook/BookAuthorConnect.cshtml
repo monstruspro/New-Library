@@ -1,0 +1,48 @@
+﻿@model Model.Models.BookAuthorConnector
+@{
+    ViewBag.Title = "Connect";
+}
+
+<h2>Connect Books and Authors</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div style="display: flex">
+        <div>
+            @Html.DropDownListFor(model => model.Title, new SelectList(Model.Books, "Value", "Text"), "", new{@id = "BookSelect" })
+        </div>
+        <div style="margin-left: 2em">
+            @Html.DropDownListFor(model => model.Name, new SelectList(Model.Authors, "Value", "Text"), "", new { @id = "AuthorSelect"})
+        </div>
+    </div>
+    <div style="margin-top: 200px">
+        <input type="button" id="connectButton" class="btn btn-primary" value="Connect" />
+        <input type="button" id="deleteButton" class="btn btn-primary" value="Delete" />
+    </div>
+    <p>
+        @Html.ActionLink("Go Back", "BookAuthor", "AuthorBook")
+    </p>
+}
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#connectButton').click(function() {
+                var data = JSON.stringify({
+                    'book_id': $("#BookSelect option:selected").val(),
+                    'author_id': $("#AuthorSelect option:selected").val()
+                });
+                $.ajax({
+                    url: "http://localhost:15442/api/BookAuthor/",
+                    method: "Post",
+                    data: data,
+                    success: function (result) {
+                        console.log(result);
+                    }
+                });
+            });
+        });
+    </script>
+}
